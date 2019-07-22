@@ -12,7 +12,6 @@ let open = document.getElementById('open-btn'),
     chooseItem = document.querySelector('.choose-item'),
     timeValue = document.querySelector('.time-value'),
     countBudget = document.querySelector('.count-budget-value'),
-    //countBudgetInput = document.getElementsByTagName('input')[6],
     hireEmployers = document.querySelectorAll('.hire-employers-item'),
     buttons = mainFunctions[0].getElementsByTagName('button');
 
